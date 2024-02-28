@@ -1,5 +1,9 @@
 * UTSA Machine Learning Workshop
 
+1. [[file:getting_started_with_arc.pdf][Getting Starting with Arc]]
+   - How to set a GPU node for ML training in PyTorch
+2. [[file:tutorial_1.ipynb][Tutorial 1]]
+
 ** ARC Computing Resources
 
 [[https://hpcsupport.utsa.edu/foswiki/bin/view/ARC/WebHome][Arc User-Guide]]
