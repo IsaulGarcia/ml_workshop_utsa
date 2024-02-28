@@ -1,2 +1,5 @@
 * UTSA Machine Learning Workshop
 
+** ARC Computing Resources
+
+[[https://hpcsupport.utsa.edu/foswiki/bin/view/ARC/WebHome][Arc User-Guide]]
